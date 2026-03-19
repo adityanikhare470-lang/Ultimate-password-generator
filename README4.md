@@ -21,7 +21,7 @@ The main purpose of this project is to generate secure passwords that are diffic
 
 ## Technologies Used
 
-- Python
+- java
 - Random module
 - String module
 - Tkinter (if GUI version is used)
@@ -34,5 +34,8 @@ The program asks the user to enter the desired password length and select which 
 
 Example of a generated password:
 
-```python
+```java
 A7@kP9#qL2!
+
+##Output Screenshot
+![Output Screenshot](output7.png)
